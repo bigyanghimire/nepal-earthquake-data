@@ -15,7 +15,7 @@ constantly==15.1.0
 cycler==0.10.0
 dj-database-url==0.5.0
 Django==2.0.4
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 djangorestframework-simplejwt==3.2.3
 email-scraper==0.3
 gunicorn==19.8.1
